@@ -1,0 +1,2 @@
+*,:after,:before{box-sizing:border-box;margin:0;padding:0}.calculator{background-color:#eee;left:50%;position:absolute;top:50%;transform:translate(-50%,-50%);width:500px}.calculator-keys{display:grid;grid-template-columns:repeat(4,1fr)}#clear{grid-column:span 2}#equals{align-items:center;display:grid;grid-row:span 2}#zero{grid-column:span 2}.btn{border-radius:0}#display,.btn{font-size:2.5em}#display{margin-right:.4em;text-align:right}
+/*# sourceMappingURL=main.4d577e8e.css.map*/
